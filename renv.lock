@@ -407,7 +407,7 @@
     },
     "rlang": {
       "Package": "rlang",
-      "Version": "1.0.5",
+      "Version": "1.0.6",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": []
